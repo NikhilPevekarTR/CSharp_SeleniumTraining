@@ -1,0 +1,14 @@
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.exe
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.deps.json
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.runtimeconfig.json
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.dll
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.pdb
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfoInputs.cache
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfo.cs
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.csproj.CoreCompileInputs.cache
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.dll
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\refint\EmployeeDashboard.dll
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.pdb
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.genruntimeconfig.cache
+C:\Users\6124781\source\repos\AutomationSolution\EmployeeDashboard\obj\Debug\net8.0\ref\EmployeeDashboard.dll
