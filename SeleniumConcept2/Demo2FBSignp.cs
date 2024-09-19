@@ -11,7 +11,7 @@ namespace SeleniumConcept2
 {
     public class Demo2FBSignp
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             IWebDriver driver = new ChromeDriver();
             driver.Url = "https://www.facebook.com/";
