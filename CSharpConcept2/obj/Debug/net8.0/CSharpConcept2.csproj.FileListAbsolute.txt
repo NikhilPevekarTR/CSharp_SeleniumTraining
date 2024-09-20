@@ -12,3 +12,4 @@ C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept2\obj\Debug\net8.0
 C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept2\obj\Debug\net8.0\CSharpConcept2.pdb
 C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept2\obj\Debug\net8.0\CSharpConcept2.genruntimeconfig.cache
 C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept2\obj\Debug\net8.0\ref\CSharpConcept2.dll
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept2\obj\Debug\net8.0\CSharpConcept2.sourcelink.json

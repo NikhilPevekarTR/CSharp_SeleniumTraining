@@ -8,28 +8,32 @@ namespace ThomsonReuters.Formulae
 {
     public class Area
     {
-        public static double AreaOfCircle(int rad) //Area of circle
+        public static double AreaOfCirle(int r)
         {
-            double area = 3.14 * rad * rad;
+            double area = 3.14 * r * r;
             return area;
         }
-        public static double AreaOfRectangle(int len, int width) //Area of rectangle
+
+        public double AreaOfRectangle(double length, double width)
         {
-            double area = len * width;
-            return area;
+            return length * width;
         }
-        public double AreaOfTriangle(int b, int h) //Area of triangle
+
+        //AreaOfTriangle
+        public static double AreaOfTriangle(double baseValue, double height)
         {
-            double area = 0.5 * (b * h);
-            return area;
+            return (baseValue * height) / 2;
         }
-        public string GetAuthorName()
+
+        public static string GetAuthorName()
         {
-            return "Bala";
+            return "Balaji Dinakaran";
         }
+
         public void Quit()
         {
 
         }
+
     }
 }

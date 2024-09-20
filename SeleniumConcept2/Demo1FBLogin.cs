@@ -10,15 +10,26 @@ namespace SeleniumConcept2
 {
     public class Demo1FBLogin
     {
-        static void Main1(string[] args)
+        static void Main(string[] args)
         {
             IWebDriver driver = new ChromeDriver();
+
+
+
             driver.Url = "https://www.facebook.com/";
-            driver.Manage().Window.Maximize();
-            driver.FindElement(By.Id("email")).SendKeys("user@gmail.com");
-            driver.FindElement(By.Id("pass")).SendKeys("userPass123");
+
+            //By locator= By.Id("email");
+            //IWebElement element= driver.FindElement(locator);
+            //element.SendKeys("hello123");
+
+            IWebElement element = driver.FindElement(By.Id("email"));
+            element.SendKeys("hello123");
+
+            //driver.FindElement(By.Id("email")).SendKeys("hello12233333333@gmail.com");
+            driver.FindElement(By.Id("pass")).SendKeys("welcome123");
+
+            //click on login
             driver.FindElement(By.Name("login")).Click();
-            driver.Quit();
         }
     }
 }

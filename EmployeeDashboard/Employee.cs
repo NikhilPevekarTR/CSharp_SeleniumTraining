@@ -14,10 +14,33 @@ namespace EmployeeDashboard
         private string empPerformance;
         public static string companyName;
 
+        //Constructor 
         public Employee()
         {
-            Console.WriteLine("Object created!!");
+            Console.WriteLine("Object created!!!");
             Console.WriteLine("Launch browser");
+        }
+        public Employee(int empId)
+        {
+            Console.WriteLine("Object created!!!");
+            Console.WriteLine("Launch browser");
+            this.empId = empId;
+        }
+
+        public Employee(int empId, string empName)
+        {
+            Console.WriteLine("Object created!!!");
+            Console.WriteLine("Launch browser");
+            this.empId = empId;
+            this.empName = empName;
+        }
+
+        public Employee(string empName, int empId)
+        {
+            Console.WriteLine("Object created!!!");
+            Console.WriteLine("Launch browser");
+            this.empId = empId;
+            this.empName = empName;
         }
 
         public int EmpId
@@ -28,56 +51,54 @@ namespace EmployeeDashboard
             }
             set
             {
-                if (value>100)
+                if (value > 100)
                 {
                     empId = value;
                 }
                 else
                 {
-                    Console.WriteLine(" Failed ");
+                    Console.WriteLine("Currently employee id is 0. Please provide value more than 100");
                 }
-
             }
         }
+
+        //set property should validate and accept empPerformance only if it A or B or C
         public string EmpPerformance
         {
-            get
-            {
-                return empPerformance;
-            }
             set
             {
-                if (value.Equals("A") || value.Equals("B") || value.Equals("C"))
+                if (value.Equals("A") || value.Equals("B") || value.Equals("B"))
                 {
                     empPerformance = value;
                 }
                 else
                 {
-                    Console.WriteLine("Please enter performance within A,B or C");
+                    Console.WriteLine("Enter Performance either A or B or C");
                 }
             }
         }
 
-        public void DisplayEmployeeDetails()
+        public void DisplayEmployeeDetail()
         {
-            Console.WriteLine("Empoyee Id: " + empId);
-            Console.WriteLine("Empoyee Name: " + empName);
-            Console.WriteLine("Empoyee Salary: " + empSalary);
-            Console.WriteLine("Empoyee Performance: " + empPerformance);
+            //int empId = 999;
+            Console.WriteLine("Employee Id: " + this.empId);
+            Console.WriteLine("Employee Name: " + empName);
+            Console.WriteLine("Employee Salary: " + this.empSalary);
+            Console.WriteLine("Employee Performance: " + empPerformance);
             Console.WriteLine("Company Name: " + Employee.companyName);
-            Console.WriteLine("-----------------------");
+            Console.WriteLine("------------------------------------------------");
         }
 
-        //Allocate Bonus
+        //AllocateBonus
         public void AllocateBonus()
         {
             if (empPerformance != null)
             {
-                if (empPerformance == "A")
+                if (empPerformance.Equals("A"))
                 {
                     empSalary = empSalary + 1000;
                 }
-                else if (empPerformance == "B")
+                else if (empPerformance.Equals("B"))
                 {
                     empSalary = empSalary + 500;
                 }
@@ -85,20 +106,19 @@ namespace EmployeeDashboard
                 {
                     empSalary = empSalary + 100;
                 }
-
-                Console.WriteLine("Salary of " + empName + " after bonus is " + empSalary);
             }
         }
-        public static void GetInstance()
-        {
-            Employee emp = new Employee();
-            //return emp;
-        }
+
+        //public static Employee GetInstance()
+        //{
+        //    Employee e=new Employee();
+        //    return e;
+        //}
 
         public static void PrintEmpId(Employee emp)
         {
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine(emp.empId);
+            Console.WriteLine(emp.empName);
         }
     }
 }

@@ -13,7 +13,7 @@ namespace CSharpConcept
         {
             empNo = empNo;
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Employee emp = new Employee(101);
             Console.WriteLine(emp.empNo);

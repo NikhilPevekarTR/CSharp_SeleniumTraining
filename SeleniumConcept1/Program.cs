@@ -1,5 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Chromium;
+using OpenQA.Selenium.Edge;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,16 +14,29 @@ namespace SeleniumConcept1
     {
         static void Main(string[] args)
         {
+            //string browser = "edge";
+            //IWebDriver obj;
+
+            //if (browser.Equals("edge"))
+            //{
+            //     obj = new EdgeDriver();
+            //}
+            //else
+            //{
+            //     obj = new ChromeDriver();
+            //}
+
+
             IWebDriver obj = new ChromeDriver();
-            string browser = "Edge";
+            obj.Url = "https://www.facebook.com/";
 
-            IWebDriver obj1 = new ChromeDriver();
+            string actualTitle = obj.Title;
+            Console.WriteLine(actualTitle);
 
-            obj.Url = "https://www.google.com/";
-            string strTitle = obj.Title;
-            Console.WriteLine(strTitle);
+            Console.WriteLine(obj.Title);
+            Console.WriteLine(obj.Url);
+
             obj.Quit();
-            obj1.Quit();
 
         }
     }

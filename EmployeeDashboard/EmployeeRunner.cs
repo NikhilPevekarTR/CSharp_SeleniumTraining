@@ -11,36 +11,47 @@ namespace EmployeeDashboard
         static void Main(string[] args)
         {
             Employee.companyName = "TR";
-            Employee employee1 = new Employee();
-            Employee employee2 = new Employee();
-            Employee employee3 = new Employee();
 
-            employee1.EmpId = -101; //set property
-            employee1.empName = "Saul";
-            employee1.empSalary = 9000;
-            employee1.EmpPerformance = "B";
+            Employee emp1 = new Employee(101);
+            Employee emp2 = new Employee(102);
+            Employee emp3 = new Employee(103);
+            Employee emp4 = new Employee(104, "kevin");
+            Employee emp5 = new Employee("", 9);
+            //Employee emp4= Employee.GetInstance();
 
-            employee2.EmpId = 102;
-            employee2.empName = "Peter";
-            employee2.empSalary = 7000;
-            employee2.EmpPerformance = "A";
 
-            employee3.EmpId = 103;
-            employee3.empName = "Kim";
-            employee3.empSalary = 4000;
-            employee3.EmpPerformance = "C";
 
-            Console.WriteLine(employee1.EmpId);
-            Console.WriteLine(employee2.EmpId);
-            Console.WriteLine(employee3.EmpId);
+            emp1.EmpId = -101;  //set property
+            emp1.empName = "saul";
+            emp1.empSalary = 9000;
+            emp1.EmpPerformance = "B";
 
-            employee1.DisplayEmployeeDetails();
-            employee2.DisplayEmployeeDetails();
-            employee3.DisplayEmployeeDetails();
+            emp2.EmpId = 102;
+            emp2.empName = "peter";
+            emp2.empSalary = 7000;
+            emp2.EmpPerformance = "A";
 
-            employee1.AllocateBonus();
-            employee2.AllocateBonus();
-            employee3.AllocateBonus();
+            emp1.DisplayEmployeeDetail();
+            emp2.DisplayEmployeeDetail();
+            emp3.DisplayEmployeeDetail();
+
+            emp1.AllocateBonus();
+            emp2.AllocateBonus();
+            emp3.AllocateBonus();
+
+            emp1.DisplayEmployeeDetail();
+            emp2.DisplayEmployeeDetail();
+            emp3.DisplayEmployeeDetail();
+            //emp4.DisplayEmployeeDetail();
+
+            Employee.PrintEmpId(emp2);
+
+            Console.WriteLine(emp1.EmpId); //get property
+            //Console.WriteLine(emp1.EmpPerformance);
+
+            //Employee.PrintEmpId(emp4);
+
+            //Employee.GetInstance().DisplayEmployeeDetail();
         }
     }
 }

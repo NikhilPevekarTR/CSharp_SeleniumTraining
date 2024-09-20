@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcept", "CSharpConcept\CSharpConcept.csproj", "{615CBFA0-3F52-4459-B1C2-BD115456C575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpConcept", "CSharpConcept\CSharpConcept.csproj", "{615CBFA0-3F52-4459-B1C2-BD115456C575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcept2", "CSharpConcept2\CSharpConcept2.csproj", "{5EAFBF25-E80E-498A-8223-42CCAF49D635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpConcept2", "CSharpConcept2\CSharpConcept2.csproj", "{5EAFBF25-E80E-498A-8223-42CCAF49D635}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDashboard", "EmployeeDashboard\EmployeeDashboard.csproj", "{E3784C4E-B009-491D-B54A-FEE32DAEA240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDashboard", "EmployeeDashboard\EmployeeDashboard.csproj", "{E3784C4E-B009-491D-B54A-FEE32DAEA240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConcept1", "SeleniumConcept1\SeleniumConcept1.csproj", "{977FEF1C-FB09-4CC7-BDC4-8EE6A88E4EA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept1", "SeleniumConcept1\SeleniumConcept1.csproj", "{977FEF1C-FB09-4CC7-BDC4-8EE6A88E4EA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumConcept2", "SeleniumConcept2\SeleniumConcept2.csproj", "{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConcept2", "SeleniumConcept2\SeleniumConcept2.csproj", "{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumConceptUnitTestProject", "SeleniumConceptUnitTestProject\SeleniumConceptUnitTestProject.csproj", "{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcept4", "CSharpConcept4\CSharpConcept4.csproj", "{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConcept3", "CSharpConcept3\CSharpConcept3.csproj", "{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

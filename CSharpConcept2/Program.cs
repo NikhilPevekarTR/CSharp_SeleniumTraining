@@ -5,40 +5,35 @@ using System.Text;
 using System.Threading.Tasks;
 using ThomsonReuters.Formulae;
 
-namespace ThomsonReuters.CSharpConcept2
+namespace CSharpConcept2
 {
     public class Program
     {
-        //Static method call
-       
         static void Main(string[] args)
         {
-            double result;
-            string authorName;
+
+            int radius = 10;
+
+            double result = Area.AreaOfCirle(10);
+            Console.WriteLine(result);
+
+            result = Area.AreaOfCirle(20);
+            Console.WriteLine(result);
+
+            Console.WriteLine(Area.AreaOfCirle(30));
 
             //load all non-static fields in memory
             Area obj = new Area();
 
-            result = Area.AreaOfCircle(10);
-            Console.WriteLine("Area of circle: "+result);
+            double output = obj.AreaOfRectangle(10, 2.5);
+            Console.WriteLine(output);
 
-            result = Area.AreaOfRectangle(10,20);
-            Console.WriteLine("Area of rectangle: " + result);
+            Console.WriteLine(Area.AreaOfTriangle(25, 1));
 
-            result = obj.AreaOfTriangle(25, 1);
-            Console.WriteLine("Area of triangle: " + result);
-
-            authorName = obj.GetAuthorName();
-            Console.WriteLine("Athor Name: " + authorName);
+            string name = Area.GetAuthorName();
+            Console.WriteLine(name);
 
             obj.Quit();
-
-            //int radius = 10;
-            //float pie = 3.14f;
-            //double area;
-
-            //area = pie * radius * radius;
-            //Console.WriteLine(area);
         }
     }
 }

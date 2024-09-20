@@ -19,3 +19,4 @@ C:\Users\6124781\source\repos\AutomationSolution\SeleniumConcept2\obj\Debug\net8
 C:\Users\6124781\source\repos\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\SeleniumConcept2.pdb
 C:\Users\6124781\source\repos\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\SeleniumConcept2.genruntimeconfig.cache
 C:\Users\6124781\source\repos\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\ref\SeleniumConcept2.dll
+C:\Users\6124781\source\repos\AutomationSolution\SeleniumConcept2\obj\Debug\net8.0\SeleniumConcept2.sourcelink.json
