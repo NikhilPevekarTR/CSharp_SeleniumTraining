@@ -1,0 +1,15 @@
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\bin\Debug\net8.0\CSharpConcept3.exe
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\bin\Debug\net8.0\CSharpConcept3.deps.json
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\bin\Debug\net8.0\CSharpConcept3.runtimeconfig.json
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\bin\Debug\net8.0\CSharpConcept3.dll
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\bin\Debug\net8.0\CSharpConcept3.pdb
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.AssemblyInfoInputs.cache
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.AssemblyInfo.cs
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.csproj.CoreCompileInputs.cache
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.sourcelink.json
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.dll
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\refint\CSharpConcept3.dll
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.pdb
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\CSharpConcept3.genruntimeconfig.cache
+C:\Users\6124781\source\repos\AutomationSolution\CSharpConcept3\obj\Debug\net8.0\ref\CSharpConcept3.dll
