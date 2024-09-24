@@ -3,64 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{012521BF-81FE-4896-AEC4-0CD2AC0E447A}|Excercise\\TestExcercise.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\excercise\\task3-medibuddylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{012521BF-81FE-4896-AEC4-0CD2AC0E447A}|Excercise\\TestExcercise.csproj|solutionrelative:excercise\\task3-medibuddylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{012521BF-81FE-4896-AEC4-0CD2AC0E447A}|Excercise\\TestExcercise.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\excercise\\task2-db4freelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{012521BF-81FE-4896-AEC4-0CD2AC0E447A}|Excercise\\TestExcercise.csproj|solutionrelative:excercise\\task2-db4freelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{012521BF-81FE-4896-AEC4-0CD2AC0E447A}|Excercise\\TestExcercise.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\excercise\\task1-salesforcesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{012521BF-81FE-4896-AEC4-0CD2AC0E447A}|Excercise\\TestExcercise.csproj|solutionrelative:excercise\\task1-salesforcesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconceptunittestproject\\demo3frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo3frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconceptunittestproject\\demo4seleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo4seleniumadvance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68D0585F-396E-4BD1-80D8-01011B1040F7}|UnitTestExcercise\\UnitTestExcercise.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\unittestexcercise\\exercise5-openemr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68D0585F-396E-4BD1-80D8-01011B1040F7}|UnitTestExcercise\\UnitTestExcercise.csproj|solutionrelative:unittestexcercise\\exercise5-openemr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\seleniumconceptunittestproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconceptunittestproject\\demo3frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo3frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconcept2\\demo3salesforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\demo3salesforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3784C4E-B009-491D-B54A-FEE32DAEA240}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3784C4E-B009-491D-B54A-FEE32DAEA240}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3784C4E-B009-491D-B54A-FEE32DAEA240}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\employeedashboard\\employeedashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3784C4E-B009-491D-B54A-FEE32DAEA240}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employeedashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}|CSharpConcept3\\CSharpConcept3.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\csharpconcept3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BD13D45-8120-4191-A7F8-C60ABEBC2DB9}|CSharpConcept3\\CSharpConcept3.csproj|solutionrelative:csharpconcept3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}|CSharpConcept4\\CSharpConcept4.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\csharpconcept4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}|CSharpConcept4\\CSharpConcept4.csproj|solutionrelative:csharpconcept4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}|CSharpConcept4\\CSharpConcept4.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\csharpconcept4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B1B5960-126F-4E88-9D33-BBBA2C4B28A9}|CSharpConcept4\\CSharpConcept4.csproj|solutionrelative:csharpconcept4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconcept2\\demo1fblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\demo1fblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}|SeleniumConcept2\\SeleniumConcept2.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconcept2\\demo2fbsignp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB0B8B7A-D9F8-4961-89DD-C7D37EFACFD9}|SeleniumConcept2\\SeleniumConcept2.csproj|solutionrelative:seleniumconcept2\\demo2fbsignp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3784C4E-B009-491D-B54A-FEE32DAEA240}|EmployeeDashboard\\EmployeeDashboard.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\employeedashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3784C4E-B009-491D-B54A-FEE32DAEA240}|EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:employeedashboard\\employeerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|c:\\users\\6124781\\source\\repos\\automationsolution\\seleniumconceptunittestproject\\demo2alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E9F63C-3B2D-4E4F-94D3-9ED599F0D664}|SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj|solutionrelative:seleniumconceptunittestproject\\demo2alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,205 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo4SeleniumAdvance.cs",
+              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
+              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo4SeleniumAdvance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:04:00.427Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Exercise5-OpenEMR.cs",
               "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\UnitTestExcercise\\Exercise5-OpenEMR.cs",
               "RelativeDocumentMoniker": "UnitTestExcercise\\Exercise5-OpenEMR.cs",
               "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\UnitTestExcercise\\Exercise5-OpenEMR.cs",
               "RelativeToolTip": "UnitTestExcercise\\Exercise5-OpenEMR.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwE0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T15:40:14.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Demo3Frame.cs",
               "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo3Frame.cs",
               "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo3Frame.cs",
               "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo3Frame.cs",
               "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo3Frame.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T15:13:49.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Task1-SalesforceSignup.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\Excercise\\Task1-SalesforceSignup.cs",
-              "RelativeDocumentMoniker": "Excercise\\Task1-SalesforceSignup.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\Excercise\\Task1-SalesforceSignup.cs",
-              "RelativeToolTip": "Excercise\\Task1-SalesforceSignup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Demo2Alert.cs",
+              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo2Alert.cs",
+              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\Demo2Alert.cs",
+              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\Demo2Alert.cs",
+              "RelativeToolTip": "SeleniumConceptUnitTestProject\\Demo2Alert.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:28:41.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task2-Db4FreeLogin.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\Excercise\\Task2-Db4FreeLogin.cs",
-              "RelativeDocumentMoniker": "Excercise\\Task2-Db4FreeLogin.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\Excercise\\Task2-Db4FreeLogin.cs",
-              "RelativeToolTip": "Excercise\\Task2-Db4FreeLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:35:59.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Task3-MediBuddyLogin.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\Excercise\\Task3-MediBuddyLogin.cs",
-              "RelativeDocumentMoniker": "Excercise\\Task3-MediBuddyLogin.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\Excercise\\Task3-MediBuddyLogin.cs",
-              "RelativeToolTip": "Excercise\\Task3-MediBuddyLogin.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAArwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:37:39.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeleniumConceptUnitTestProject",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
-              "RelativeDocumentMoniker": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
-              "RelativeToolTip": "SeleniumConceptUnitTestProject\\SeleniumConceptUnitTestProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T15:39:34.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeDashboard",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\EmployeeDashboard\\EmployeeDashboard.csproj",
-              "RelativeDocumentMoniker": "EmployeeDashboard\\EmployeeDashboard.csproj",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\EmployeeDashboard\\EmployeeDashboard.csproj",
-              "RelativeToolTip": "EmployeeDashboard\\EmployeeDashboard.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T15:32:24.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\CSharpConcept3\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpConcept3\\Program.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\CSharpConcept3\\Program.cs",
-              "RelativeToolTip": "CSharpConcept3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:17:47.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\CSharpConcept4\\Employee.cs",
-              "RelativeDocumentMoniker": "CSharpConcept4\\Employee.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\CSharpConcept4\\Employee.cs",
-              "RelativeToolTip": "CSharpConcept4\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:17:04.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\CSharpConcept4\\Program.cs",
-              "RelativeDocumentMoniker": "CSharpConcept4\\Program.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\CSharpConcept4\\Program.cs",
-              "RelativeToolTip": "CSharpConcept4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:16:28.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\EmployeeDashboard\\Employee.cs",
-              "RelativeDocumentMoniker": "EmployeeDashboard\\Employee.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\EmployeeDashboard\\Employee.cs",
-              "RelativeToolTip": "EmployeeDashboard\\Employee.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:08:16.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Demo3SalesForce.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo3SalesForce.cs",
-              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo3SalesForce.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo3SalesForce.cs",
-              "RelativeToolTip": "SeleniumConcept2\\Demo3SalesForce.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:12:04.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Demo2FBSignp.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo2FBSignp.cs",
-              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo2FBSignp.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo2FBSignp.cs",
-              "RelativeToolTip": "SeleniumConcept2\\Demo2FBSignp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:11:50.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Demo1FBLogin.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo1FBLogin.cs",
-              "RelativeDocumentMoniker": "SeleniumConcept2\\Demo1FBLogin.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\SeleniumConcept2\\Demo1FBLogin.cs",
-              "RelativeToolTip": "SeleniumConcept2\\Demo1FBLogin.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAjwA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:11:37.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeeRunner.cs",
-              "DocumentMoniker": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\EmployeeDashboard\\EmployeeRunner.cs",
-              "RelativeDocumentMoniker": "EmployeeDashboard\\EmployeeRunner.cs",
-              "ToolTip": "C:\\Users\\6124781\\source\\repos\\AutomationSolution\\EmployeeDashboard\\EmployeeRunner.cs",
-              "RelativeToolTip": "EmployeeDashboard\\EmployeeRunner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T15:08:54.436Z",
+              "WhenOpened": "2024-09-23T14:21:27.207Z",
               "EditorCaption": ""
             }
           ]

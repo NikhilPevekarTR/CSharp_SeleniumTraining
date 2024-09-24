@@ -28,8 +28,8 @@ namespace ThomsonReuters.SeleniumConceptUnitTestProject
             driver.FindElement(By.Id("clearPass")).SendKeys("pass");
 
             // Select language as English (Indian)
-            SelectElement languageDropdown = new SelectElement(driver.FindElement(By.Name("languageChoice")));
-            languageDropdown.SelectByText("English (Indian)");
+            SelectElement selectlanguage = new SelectElement(driver.FindElement(By.XPath("//select[@name='languageChoice']")));
+            selectlanguage.SelectByValue("18");
 
             // Click on the login button
             driver.FindElement(By.CssSelector("button[type='submit']")).Click();
@@ -58,9 +58,10 @@ namespace ThomsonReuters.SeleniumConceptUnitTestProject
             // Click on confirm create new patient button
             driver.SwitchTo().DefaultContent();
             driver.SwitchTo().Frame("modalframe");
-            driver.FindElement(By.XPath("//input[@value='Confirm Create New Patient']")).Click();
+            driver.FindElement(By.XPath("//button[text()='Confirm Create New Patient']")).Click();
 
             // Print the text from alert box
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             IAlert alert = driver.SwitchTo().Alert();
             Console.WriteLine("Alert Text: " + alert.Text);
             alert.Accept();
@@ -71,7 +72,7 @@ namespace ThomsonReuters.SeleniumConceptUnitTestProject
 
             // Get the added patient name and print in the console
             driver.SwitchTo().Frame("pat");
-            string patientName = driver.FindElement(By.XPath("//span[@data-bind='text: pname']")).Text;
+            string patientName = driver.FindElement(By.XPath("//span[@data-bind='text: pname()']")).Text;
             Console.WriteLine("Added Patient Name: " + patientName);
         }
     }
